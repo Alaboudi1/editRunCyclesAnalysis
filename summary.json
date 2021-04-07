@@ -1,0 +1,1160 @@
+[
+    {
+        "episodeTime": 494,
+        "cyclesNumber": 11,
+        "cyclesTime": 494,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 382,
+        "cyclesNumber": 9,
+        "cyclesTime": 382,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 327,
+        "cyclesNumber": 17,
+        "cyclesTime": 320,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 233,
+        "cyclesNumber": 7,
+        "cyclesTime": 214,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 175,
+        "cyclesNumber": 6,
+        "cyclesTime": 175,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 165,
+        "cyclesNumber": 7,
+        "cyclesTime": 165,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 57,
+        "cyclesNumber": 1,
+        "cyclesTime": 57,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 55,
+        "cyclesNumber": 3,
+        "cyclesTime": 54,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 30,
+        "cyclesNumber": 1,
+        "cyclesTime": 30,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 19,
+        "cyclesNumber": 1,
+        "cyclesTime": 16,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 17,
+        "cyclesNumber": 1,
+        "cyclesTime": 14,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 12,
+        "cyclesNumber": 1,
+        "cyclesTime": 11,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 8,
+        "cyclesNumber": 1,
+        "cyclesTime": 8,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 5,
+        "cyclesNumber": 1,
+        "cyclesTime": 3,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 930,
+        "cyclesNumber": 15,
+        "cyclesTime": 829,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 430,
+        "cyclesNumber": 11,
+        "cyclesTime": 380,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 223,
+        "cyclesNumber": 4,
+        "cyclesTime": 223,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 199,
+        "cyclesNumber": 1,
+        "cyclesTime": 176,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 180,
+        "cyclesNumber": 14,
+        "cyclesTime": 174,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 121,
+        "cyclesNumber": 4,
+        "cyclesTime": 121,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 118,
+        "cyclesNumber": 4,
+        "cyclesTime": 107,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 107,
+        "cyclesNumber": 2,
+        "cyclesTime": 89,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 84,
+        "cyclesNumber": 2,
+        "cyclesTime": 35,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 80,
+        "cyclesNumber": 2,
+        "cyclesTime": 74,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 72,
+        "cyclesNumber": 2,
+        "cyclesTime": 70,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 41,
+        "cyclesNumber": 3,
+        "cyclesTime": 33,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 30,
+        "cyclesNumber": 1,
+        "cyclesTime": 25,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 828,
+        "cyclesNumber": 8,
+        "cyclesTime": 822,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 742,
+        "cyclesNumber": 7,
+        "cyclesTime": 649,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 415,
+        "cyclesNumber": 3,
+        "cyclesTime": 407,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 400,
+        "cyclesNumber": 3,
+        "cyclesTime": 341,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 254,
+        "cyclesNumber": 5,
+        "cyclesTime": 227,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 248,
+        "cyclesNumber": 1,
+        "cyclesTime": 125,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 122,
+        "cyclesNumber": 3,
+        "cyclesTime": 103,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 109,
+        "cyclesNumber": 1,
+        "cyclesTime": 100,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 86,
+        "cyclesNumber": 2,
+        "cyclesTime": 70,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 59,
+        "cyclesNumber": 2,
+        "cyclesTime": 57,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 48,
+        "cyclesNumber": 1,
+        "cyclesTime": 48,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 42,
+        "cyclesNumber": 2,
+        "cyclesTime": 41,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1170,
+        "cyclesNumber": 5,
+        "cyclesTime": 936,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 900,
+        "cyclesNumber": 5,
+        "cyclesTime": 877,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 816,
+        "cyclesNumber": 15,
+        "cyclesTime": 805,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 307,
+        "cyclesNumber": 6,
+        "cyclesTime": 307,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 64,
+        "cyclesNumber": 1,
+        "cyclesTime": 59,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 59,
+        "cyclesNumber": 3,
+        "cyclesTime": 59,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 25,
+        "cyclesNumber": 1,
+        "cyclesTime": 25,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 20,
+        "cyclesNumber": 1,
+        "cyclesTime": 18,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 18,
+        "cyclesNumber": 1,
+        "cyclesTime": 18,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1685,
+        "cyclesNumber": 16,
+        "cyclesTime": 1669,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1094,
+        "cyclesNumber": 3,
+        "cyclesTime": 1070,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 884,
+        "cyclesNumber": 3,
+        "cyclesTime": 846,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 247,
+        "cyclesNumber": 4,
+        "cyclesTime": 196,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 197,
+        "cyclesNumber": 4,
+        "cyclesTime": 161,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 175,
+        "cyclesNumber": 4,
+        "cyclesTime": 171,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 65,
+        "cyclesNumber": 2,
+        "cyclesTime": 62,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 16,
+        "cyclesNumber": 1,
+        "cyclesTime": 11,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 15,
+        "cyclesNumber": 1,
+        "cyclesTime": 11,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 2911,
+        "cyclesNumber": 22,
+        "cyclesTime": 2911,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1116,
+        "cyclesNumber": 8,
+        "cyclesTime": 1050,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 863,
+        "cyclesNumber": 15,
+        "cyclesTime": 860,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 152,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 41,
+        "cyclesNumber": 1,
+        "cyclesTime": 32,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 36,
+        "cyclesNumber": 1,
+        "cyclesTime": 19,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 736,
+        "cyclesNumber": 9,
+        "cyclesTime": 731,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 520,
+        "cyclesNumber": 10,
+        "cyclesTime": 520,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 355,
+        "cyclesNumber": 2,
+        "cyclesTime": 335,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 308,
+        "cyclesNumber": 4,
+        "cyclesTime": 307,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 118,
+        "cyclesNumber": 1,
+        "cyclesTime": 104,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 24,
+        "cyclesNumber": 1,
+        "cyclesTime": 19,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1309,
+        "cyclesNumber": 10,
+        "cyclesTime": 1130,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 593,
+        "cyclesNumber": 6,
+        "cyclesTime": 543,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 523,
+        "cyclesNumber": 8,
+        "cyclesTime": 496,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 223,
+        "cyclesNumber": 1,
+        "cyclesTime": 214,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 3603,
+        "cyclesNumber": 24,
+        "cyclesTime": 3237,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 2223,
+        "cyclesNumber": 25,
+        "cyclesTime": 2184,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1269,
+        "cyclesNumber": 19,
+        "cyclesTime": 1269,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 30,
+        "cyclesNumber": 1,
+        "cyclesTime": 30,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1184,
+        "cyclesNumber": 7,
+        "cyclesTime": 1142,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1035,
+        "cyclesNumber": 7,
+        "cyclesTime": 997,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 143,
+        "cyclesNumber": 3,
+        "cyclesTime": 134,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 268,
+        "cyclesNumber": 1,
+        "cyclesTime": 266,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 266,
+        "cyclesNumber": 5,
+        "cyclesTime": 256,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 74,
+        "cyclesNumber": 4,
+        "cyclesTime": 71,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 6999,
+        "cyclesNumber": 48,
+        "cyclesTime": 6809,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 1098,
+        "cyclesNumber": 8,
+        "cyclesTime": 1013,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 630,
+        "cyclesNumber": 9,
+        "cyclesTime": 604,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 368,
+        "cyclesNumber": 1,
+        "cyclesTime": 346,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 5647,
+        "cyclesNumber": 22,
+        "cyclesTime": 4881,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 4799,
+        "cyclesNumber": 52,
+        "cyclesTime": 4640,
+        "work": "debugging"
+    },
+    {
+        "episodeTime": 579,
+        "cyclesNumber": 3,
+        "cyclesTime": 579,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 315,
+        "cyclesNumber": 2,
+        "cyclesTime": 315,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 245,
+        "cyclesNumber": 1,
+        "cyclesTime": 245,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 245,
+        "cyclesNumber": 6,
+        "cyclesTime": 192,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 201,
+        "cyclesNumber": 2,
+        "cyclesTime": 196,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 168,
+        "cyclesNumber": 2,
+        "cyclesTime": 59,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 101,
+        "cyclesNumber": 2,
+        "cyclesTime": 101,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 84,
+        "cyclesNumber": 2,
+        "cyclesTime": 81,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 73,
+        "cyclesNumber": 1,
+        "cyclesTime": 73,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 58,
+        "cyclesNumber": 2,
+        "cyclesTime": 58,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 24,
+        "cyclesNumber": 1,
+        "cyclesTime": 8,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 23,
+        "cyclesNumber": 1,
+        "cyclesTime": 23,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 8,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 7,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1180,
+        "cyclesNumber": 9,
+        "cyclesTime": 1174,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 694,
+        "cyclesNumber": 5,
+        "cyclesTime": 454,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 416,
+        "cyclesNumber": 2,
+        "cyclesTime": 398,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 275,
+        "cyclesNumber": 6,
+        "cyclesTime": 266,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 238,
+        "cyclesNumber": 8,
+        "cyclesTime": 232,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 235,
+        "cyclesNumber": 1,
+        "cyclesTime": 229,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 135,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 123,
+        "cyclesNumber": 2,
+        "cyclesTime": 119,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 123,
+        "cyclesNumber": 4,
+        "cyclesTime": 123,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 91,
+        "cyclesNumber": 2,
+        "cyclesTime": 91,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 83,
+        "cyclesNumber": 1,
+        "cyclesTime": 60,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 33,
+        "cyclesNumber": 1,
+        "cyclesTime": 33,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 17,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 2,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1341,
+        "cyclesNumber": 8,
+        "cyclesTime": 1317,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 790,
+        "cyclesNumber": 6,
+        "cyclesTime": 771,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 586,
+        "cyclesNumber": 3,
+        "cyclesTime": 586,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 430,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 370,
+        "cyclesNumber": 1,
+        "cyclesTime": 257,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 347,
+        "cyclesNumber": 2,
+        "cyclesTime": 332,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 179,
+        "cyclesNumber": 3,
+        "cyclesTime": 161,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 178,
+        "cyclesNumber": 1,
+        "cyclesTime": 166,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 146,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 73,
+        "cyclesNumber": 1,
+        "cyclesTime": 73,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 48,
+        "cyclesNumber": 1,
+        "cyclesTime": 48,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 43,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 29,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 26,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 2521,
+        "cyclesNumber": 15,
+        "cyclesTime": 2521,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1833,
+        "cyclesNumber": 8,
+        "cyclesTime": 1718,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1430,
+        "cyclesNumber": 6,
+        "cyclesTime": 1430,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 499,
+        "cyclesNumber": 7,
+        "cyclesTime": 499,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 204,
+        "cyclesNumber": 2,
+        "cyclesTime": 175,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 201,
+        "cyclesNumber": 1,
+        "cyclesTime": 162,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 97,
+        "cyclesNumber": 1,
+        "cyclesTime": 97,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 16,
+        "cyclesNumber": 1,
+        "cyclesTime": 16,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 11,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 2171,
+        "cyclesNumber": 2,
+        "cyclesTime": 2017,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1992,
+        "cyclesNumber": 1,
+        "cyclesTime": 1793,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1657,
+        "cyclesNumber": 2,
+        "cyclesTime": 840,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 899,
+        "cyclesNumber": 4,
+        "cyclesTime": 686,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 233,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 214,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 173,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 113,
+        "cyclesNumber": 1,
+        "cyclesTime": 111,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 99,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1437,
+        "cyclesNumber": 3,
+        "cyclesTime": 1426,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 593,
+        "cyclesNumber": 2,
+        "cyclesTime": 251,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 349,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 134,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 111,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 106,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 66,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 65,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1696,
+        "cyclesNumber": 4,
+        "cyclesTime": 1202,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 973,
+        "cyclesNumber": 5,
+        "cyclesTime": 867,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 953,
+        "cyclesNumber": 2,
+        "cyclesTime": 897,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 458,
+        "cyclesNumber": 2,
+        "cyclesTime": 204,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 299,
+        "cyclesNumber": 1,
+        "cyclesTime": 299,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 273,
+        "cyclesNumber": 1,
+        "cyclesTime": 273,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 24,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1383,
+        "cyclesNumber": 2,
+        "cyclesTime": 1332,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 504,
+        "cyclesNumber": 2,
+        "cyclesTime": 490,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 374,
+        "cyclesNumber": 4,
+        "cyclesTime": 372,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 196,
+        "cyclesNumber": 1,
+        "cyclesTime": 196,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 171,
+        "cyclesNumber": 1,
+        "cyclesTime": 143,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 150,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 101,
+        "cyclesNumber": 1,
+        "cyclesTime": 101,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 988,
+        "cyclesNumber": 3,
+        "cyclesTime": 939,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 620,
+        "cyclesNumber": 2,
+        "cyclesTime": 250,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 387,
+        "cyclesNumber": 2,
+        "cyclesTime": 249,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 82,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 39,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 1220,
+        "cyclesNumber": 8,
+        "cyclesTime": 1220,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 921,
+        "cyclesNumber": 3,
+        "cyclesTime": 869,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 909,
+        "cyclesNumber": 2,
+        "cyclesTime": 895,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 12,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 453,
+        "cyclesNumber": 1,
+        "cyclesTime": 398,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 334,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 240,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 869,
+        "cyclesNumber": 1,
+        "cyclesTime": 869,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 853,
+        "cyclesNumber": 5,
+        "cyclesTime": 838,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 109,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 2390,
+        "cyclesNumber": 2,
+        "cyclesTime": 2376,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 199,
+        "cyclesNumber": 1,
+        "cyclesTime": 199,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 166,
+        "cyclesNumber": 2,
+        "cyclesTime": 101,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 644,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 298,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 216,
+        "cyclesNumber": 1,
+        "cyclesTime": 183,
+        "work": "programming"
+    },
+    {
+        "episodeTime": 22,
+        "cyclesNumber": 0,
+        "cyclesTime": 0,
+        "work": "programming"
+    }
+]
