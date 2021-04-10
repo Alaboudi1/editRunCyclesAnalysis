@@ -615,42 +615,191 @@ let normalizeVideoId = (id)=>{
         debugger ;
     }
 }
-    // how may files
-    // how many files edit vs browsed
-    //association between files number and edit duration
-    // type other work interwinded with edits
-    // association between the existing of other work and the edit step length
+// how may files
+// how many files edit vs browsed
+//association between files number and edit duration
+// type other work interwinded with edits
+// association between the existing of other work and the edit step length
 
 let extractEditCharact = ()=>{
     let {debuggingCycles, programmingCycles} = extractCycles();
 
-let editDe = debuggingCycles.map(episodeCycls => {
+    let editDe = debuggingCycles.map(episodeCycls=>{
 
-          let editActivites = episodeCycls.cycles.map(c =>
-          {
-          })
+        let editActivites = episodeCycls.cycles.map(c=>({
+            work: "debugging",
 
-      })
+            cycleTime: c.cycleTime,
+            activities: c.activities.filter(a=>a.title.includes("file")).length,
+            editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
+            browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
+            otherWithEdit: c.activities.filter((a,i)=>{
+                if (a.title.includes("file") || a.title.includes("Testing"))
+                    return false;
+                let pre = c.activities[i - 1]?.title;
+                let next = c.activities[i + 1]?.title;
+                if (pre.includes("file") || next.includes("file"))
+                    return true;
+            }
+            )
+
+        }))
+        return editActivites
+
+    }
+    )
+    let editPro = programmingCycles.map(episodeCycls=>{
+
+        let editActivites = episodeCycls.cycles.map(c=>({
+            work: "programming",
+            cycleTime: c.cycleTime,
+            activities: c.activities.filter(a=>a.title.includes("file")).length,
+            editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
+            browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
+            otherWithEdit: c.activities.filter((a,i)=>{
+                if (a.title.includes("file") || a.title.includes("Testing"))
+                    return false
+                pre = c.activities[i - 1]?.title;
+                next = c.activities[i + 1]?.title;
+                if (pre.includes("file") || next.includes("file"))
+                    return true;
+            }
+            )
+
+        }))
+        return editActivites
+    }
+    )
+
+    let final = [...editDe.flat(), ...editPro.flat()];
+    return final.map(cycle=>{
+        let red = new Map();
+        let write = new Map();
+        cycle.editFiles.forEach(e=>{
+            let fileName = e.description.split("\n").find(e=>e.includes("IF1")).replaceAll(" ", "")
+            write.set(fileName, "anything")
+        }
+        )
+        cycle.browsFile.forEach(e=>{
+            let fileName = e.description.split("\n").find(e=>e.includes("IF1")).replaceAll(" ", "")
+            if (write.get(fileName) == undefined)
+                red.set(fileName, "anything")
+        }
+        )
+
+        return {
+            ...cycle,
+            editFiles: [...write.keys()].length,
+            browsFile: [...red.keys()].length,
+
+        }
+    }
+    )
 }
+
+// how did they run the program (manual vs autamted tests)
+// how many used only intermidate state (log vs debugger)
+// how may only output 
+// how many both
+// type other work interwinded with run
+// association between the existing of other work and the edit step length
 
 let extractRunCharact = ()=>{
     let {debuggingCycles, programmingCycles} = extractCycles();
 
-    // how did they run the program (manual vs autamted tests)
-    // how many used only intermidate state (log vs debugger)
-    // how may only output 
-    // how many both
-    // type other work interwinded with run
-    // association between the existing of other work and the edit step length
+    let runDe = debuggingCycles.map(episodeCycls=>{
 
-      
+        let runActivities = episodeCycls.cycles.map(c=>({
+            work: "debugging",
+            cycleTime: c.cycleTime,
+            activities: c.activities.filter(a=>a.title.includes("Testing")).length,
+            output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
+            runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
+            otherWithRun: c.activities.filter((a,i)=>{
+                if (a.title.includes("file") || a.title.includes("Testing"))
+                    return false;
+                let pre = c.activities[i - 1]?.title;
+                let next = c.activities[i + 1]?.title;
+                if (pre.includes("Testing") || (next.includes("Testing") && !pre.includes("file")))
+                    return true;
+            }
+            )
+
+        }))
+
+        return runActivities
+
+    }
+    )
+
+    let runPro = programmingCycles.map(episodeCycls=>{
+
+        let runActivities = episodeCycls.cycles.map(c=>({
+            work: "programming",
+            cycleTime: c.cycleTime,
+            activities: c.activities.filter(a=>a.title.includes("Testing")).length,
+            output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
+            runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
+            otherWithRun: c.activities.filter((a,i)=>{
+                if (a.title.includes("file") || a.title.includes("Testing"))
+                    return false;
+                let pre = c.activities[i - 1]?.title;
+                let next = c.activities[i + 1]?.title;
+                if (pre.includes("Testing") || (next.includes("Testing") && !pre.includes("file")))
+                    return true;
+            }
+            )
+
+        }))
+
+        return runActivities
+
+    }
+    )
+
+    return [...runDe.flat(), ...runPro.flat()];
 
 }
-
-let extractOtherCharact = ()=>{
 // type other work interwinded with cycles
 // association between the existing of other work and the edit step length
 
+let extractOtherCharact = ()=>{
+    runOtherCycles = extractRunCharact().filter(e=>e.otherWithRun.length)
+    editOtherCyclce = extractEditCharact().filter(e=>e.otherWithEdit.length)
+    allOther = [...editOtherCyclce.map(a=>{
+        return {
+            typeOfOther: "edit",
+            numberOfOther: a.otherWithEdit.length,
+            otherTotalTime: a.otherWithEdit.reduce((a,b)=>a + b.activityTime, 0),
+            otherResources: a.otherWithEdit.filter(a=>a.title.includes("information")).length,
+            otherResourcesTime: a.otherWithEdit.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+            otherIssue: a.otherWithEdit.filter(a=>a.description.includes("OT2:")).length,
+            otherIssueTime: a.otherWithEdit.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherNotes: a.otherWithEdit.filter(a=>a.description.includes("OT4:")).length,
+            otherNotesTime: a.otherWithEdit.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherInteraction: a.otherWithEdit.filter(a=>a.description.includes("OT5:")).length,
+            otherInteractionTime: a.otherWithEdit.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+            ...a
+        }
+    }
+    ), ...runOtherCycles.map(a=>{
+        return {
+            typeOfOther: "run",
+            numberOfOther: a.otherWithRun.length,
+            otherTotalTime: a.otherWithRun.reduce((a,b)=>a + b.activityTime, 0),
+            otherResources: a.otherWithRun.filter(a=>a.title.includes("information")).length,
+            otherResourcesTime: a.otherWithRun.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+            otherIssue: a.otherWithRun.filter(a=>a.description.includes("OT2:")).length,
+            otherIssueTime: a.otherWithRun.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherNotes: a.otherWithRun.filter(a=>a.description.includes("OT4:")).length,
+            otherNotesTime: a.otherWithRun.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherInteraction: a.otherWithRun.filter(a=>a.description.includes("OT5:")).length,
+            otherInteractionTime: a.otherWithRun.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+            ...a
+        }
+    }
+    )]
+  return allOther;
 }
 
 let extractCycles = ()=>{
@@ -668,4 +817,3 @@ let extractCycles = ()=>{
         programmingCycles
     };
 }
-
