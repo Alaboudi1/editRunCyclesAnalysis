@@ -1,0 +1,7882 @@
+[
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 27,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 36,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 137,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 130,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 59,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 23,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 20,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 13,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 23,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 53,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 131,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 46,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 56,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 12,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 63,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 23,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 14,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 69,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 56,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 29,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 80,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 40,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 57,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 29,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 3,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 178,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 3,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 106,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 85,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 26,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 26,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 38,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 69,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 66,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 50,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 25,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 145,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 176,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 5,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 4,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 5,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 42,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 25,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 40,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 36,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 17,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 61,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 28,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 17,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 29,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 38,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 251,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 22,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 291,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 108,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 79,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 44,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 81,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 76,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 85,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 57,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 111,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 191,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 94,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 298,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 166,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 125,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 36,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 97,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 62,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 125,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 23,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 58,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 100,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 61,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 48,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 200,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 145,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 81,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 316,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 182,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 485,
+        "edit": 12,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 113,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 43,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 102,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 134,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 153,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 29,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 152,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 27,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 49,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 42,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 79,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 75,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 60,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 91,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 36,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 59,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 32,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 33,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 280,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 194,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 351,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 336,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 112,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 23,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 47,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 90,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 29,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 28,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 40,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 42,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 35,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 363,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 209,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 498,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 41,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 356,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 449,
+        "edit": 1,
+        "test": 5,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 4,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 36,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 63,
+        "edit": 3,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 78,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 31,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 88,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 48,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 38,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 78,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 49,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 120,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 81,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 168,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 165,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 288,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 244,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 287,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 209,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 60,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 136,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 170,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 231,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 51,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 221,
+        "edit": 2,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 49,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 123,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 78,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 87,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 118,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 471,
+        "edit": 3,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 116,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 116,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 70,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 67,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 79,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 86,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 78,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 120,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 44,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 155,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 36,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 116,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 76,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 135,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 108,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 72,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 26,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 67,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 56,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 83,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 26,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 38,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 68,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 21,
+        "cycleTime": 297,
+        "edit": 20,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 38,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 63,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 72,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 72,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 100,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 104,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 248,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 142,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 88,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 125,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 158,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 141,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 113,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 73,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 206,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 81,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 53,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 66,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 107,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 96,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 55,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 72,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 28,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 214,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 17,
+        "cycleTime": 393,
+        "edit": 14,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 26,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 30,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 33,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 88,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 51,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 117,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 37,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 516,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 488,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 27,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 55,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 61,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 38,
+        "cycleTime": 444,
+        "edit": 26,
+        "test": 1,
+        "resrouces": 9,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 151,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 257,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 239,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 195,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 2,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 100,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 51,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 13,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 23,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 48,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 93,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 247,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 26,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 51,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 96,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 137,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 366,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 32,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 92,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 48,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 99,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 105,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 49,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 297,
+        "edit": 4,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 2,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 38,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 182,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 38,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 23,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 62,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 84,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 56,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 51,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 148,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 43,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 98,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 95,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 375,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 93,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 153,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 344,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 63,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 41,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 65,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 179,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 307,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 278,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 78,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 266,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 36,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 26,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 87,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 47,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 60,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 27,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 89,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 57,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 77,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 70,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 206,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 155,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 143,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 186,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 92,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 195,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 84,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 73,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 95,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 147,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 175,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 496,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 430,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 12,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 26,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 35,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 130,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 227,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 1016,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 658,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 1198,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 20,
+        "cycleTime": 601,
+        "edit": 12,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 6,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 81,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 22,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 44,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 97,
+        "edit": 5,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 49,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 81,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 17,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 21,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 101,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 91,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 49,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 159,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 54,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 346,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 17,
+        "cycleTime": 692,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 6,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 257,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 2,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 314,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 331,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 231,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 189,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 27,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 314,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 47,
+        "cycleTime": 820,
+        "edit": 28,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 15,
+        "other": 2,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 38,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 273,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 227,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 101,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 198,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 112,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 256,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 32,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 158,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 69,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 191,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 79,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 187,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 96,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 44,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 169,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 142,
+        "edit": 11,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 6,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 9,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 69,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 135,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 163,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 14,
+        "cycleTime": 281,
+        "edit": 11,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 238,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 36,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 54,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 37,
+        "cycleTime": 307,
+        "edit": 35,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 47,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 58,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 88,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 59,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 70,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 84,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 67,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 121,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 13,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 43,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 208,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 47,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 59,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 92,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 101,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 61,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 54,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 65,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 109,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 230,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 262,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 48,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 64,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Debugging"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 285,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 217,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 3,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 77,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 4,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 187,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 109,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 4,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 245,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 27,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 37,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 36,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 25,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 171,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 13,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 40,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 61,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 52,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 29,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 73,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 34,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 23,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 30,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 8,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 15,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 31,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 40,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 76,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 64,
+        "cycleTime": 920,
+        "edit": 61,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 19,
+        "cycleTime": 301,
+        "edit": 17,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 44,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 16,
+        "cycleTime": 208,
+        "edit": 12,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 190,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 57,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 50,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 19,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 59,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 14,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 67,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 13,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 25,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 15,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 30,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 35,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 31,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 19,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 229,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 69,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 50,
+        "edit": 7,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 38,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 38,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 33,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 50,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 60,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 33,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 411,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 76,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 41,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 66,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 83,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 71,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 56,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 181,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 43,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 33,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 181,
+        "edit": 4,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 247,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 76,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 82,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 45,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 67,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 443,
+        "edit": 12,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 8,
+        "cycleTime": 257,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 125,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 207,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 78,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 28,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 47,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 166,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 73,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 48,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 95,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 84,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 20,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 98,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 19,
+        "cycleTime": 745,
+        "edit": 14,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 60,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 38,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 18,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 196,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 354,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 221,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 261,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 60,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 207,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 611,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 132,
+        "edit": 1,
+        "test": 3,
+        "resrouces": 2,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 54,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 290,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 155,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 138,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 24,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 156,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 36,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 638,
+        "edit": 4,
+        "test": 2,
+        "resrouces": 3,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 132,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 187,
+        "edit": 6,
+        "test": 3,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 40,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 156,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 172,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 30,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 37,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 82,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 31,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 140,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 69,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 106,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 162,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 97,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 16,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 46,
+        "cycleTime": 1903,
+        "edit": 41,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 114,
+        "edit": 9,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 38,
+        "cycleTime": 1793,
+        "edit": 26,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 4,
+        "other": 5,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 47,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 25,
+        "cycleTime": 793,
+        "edit": 19,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 371,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 3,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 63,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 92,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 60,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 111,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 430,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 71,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 14,
+        "cycleTime": 564,
+        "edit": 8,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 108,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 127,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 271,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 4,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 11,
+        "cycleTime": 250,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 117,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 32,
+        "cycleTime": 564,
+        "edit": 21,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 7,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 158,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 348,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 4,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 187,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 130,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 39,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 215,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 650,
+        "edit": 1,
+        "test": 5,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 148,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 56,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 299,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 273,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 54,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 26,
+        "cycleTime": 1278,
+        "edit": 22,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 106,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 293,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 21,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 7,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 24,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 18,
+        "cycleTime": 320,
+        "edit": 15,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 196,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 143,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 101,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 648,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 2,
+        "work": "Programming"
+    },
+    {
+        "activities": 6,
+        "cycleTime": 145,
+        "edit": 5,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 146,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 146,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 104,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 85,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 164,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 7,
+        "cycleTime": 148,
+        "edit": 3,
+        "test": 1,
+        "resrouces": 1,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 10,
+        "cycleTime": 460,
+        "edit": 6,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 520,
+        "edit": 8,
+        "test": 1,
+        "resrouces": 2,
+        "interactingIDE": 3,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 5,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 10,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 11,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 14,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 52,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 201,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 3,
+        "cycleTime": 29,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 15,
+        "cycleTime": 503,
+        "edit": 9,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 3,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 23,
+        "cycleTime": 518,
+        "edit": 14,
+        "test": 2,
+        "resrouces": 2,
+        "interactingIDE": 4,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 12,
+        "cycleTime": 377,
+        "edit": 10,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 398,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 2,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 869,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 84,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 121,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 46,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 97,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 490,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 35,
+        "cycleTime": 1725,
+        "edit": 18,
+        "test": 1,
+        "resrouces": 5,
+        "interactingIDE": 3,
+        "other": 8,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 651,
+        "edit": 4,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 9,
+        "cycleTime": 199,
+        "edit": 3,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 4,
+        "work": "Programming"
+    },
+    {
+        "activities": 4,
+        "cycleTime": 57,
+        "edit": 2,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 1,
+        "work": "Programming"
+    },
+    {
+        "activities": 2,
+        "cycleTime": 44,
+        "edit": 1,
+        "test": 1,
+        "resrouces": 0,
+        "interactingIDE": 0,
+        "other": 0,
+        "work": "Programming"
+    },
+    {
+        "activities": 5,
+        "cycleTime": 183,
+        "edit": 1,
+        "test": 2,
+        "resrouces": 0,
+        "interactingIDE": 1,
+        "other": 1,
+        "work": "Programming"
+    }
+]
