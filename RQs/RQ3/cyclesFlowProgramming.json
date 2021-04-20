@@ -1,0 +1,295 @@
+{
+    "data": [
+        {
+            "type": "sankey",
+            "domain": {
+                "x": [
+                    0,
+                    1
+                ],
+                "y": [
+                    0,
+                    1
+                ]
+            },
+            "orientation": "h",
+            "valueformat": ".0f",
+            "valuesuffix": "TWh",
+            "node": {
+                "pad": 15,
+                "thickness": 15,
+                "line": {
+                    "color": "black",
+                    "width": 0.5
+                },
+                "color": [
+                    "rgb(169, 209, 142, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(169, 209, 142, 0.8)",
+                    "rgb(255, 94, 67,0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(208, 206, 206, 0.8)",
+                    "rgb(255, 94, 67,0.8)"
+                ],
+                "label": [
+                    "Start edit",
+                    "33%",
+                    "Consulting  11.6%",
+                    "IDE 22.7%",
+                    "Notes 3.9%",
+                    "Issue 13%",
+                    "End edit",
+                    "Start run",
+                    "5.3%",
+                    "Consulting 0.4%",
+                    "IDE 0.6%",
+                    "Notes 1.4%",
+                    "Issue 3.8%"
+                ]
+            },
+            "link": {
+                "source": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+
+                    7,
+                    7,
+                    8,
+                    8,
+                    8,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                ],
+                "target": [
+                    7,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    7,
+                    7,
+                    7,
+                    7,
+
+                    13,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    13,
+                    13,
+                    13
+                ],
+                "value": [
+                    67,
+                    33,
+                    8,
+                    15,
+                    2,
+                    8,
+                    8,
+                    15,
+                    2,
+                    8,
+
+                    94.7,
+                    5.3,
+                    0.4,
+                    0.6,
+                    1.4,
+                    3.8,
+                    0.4,
+                    0.6,
+                    1.4,
+                    3.8
+                ],
+                "color": [
+                    "rgb(169, 209, 142,0.1)",
+                    "rgb(151, 183, 129,0.1)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(151, 183, 129,0.1)",
+                    "rgb(151, 183, 129,0.1)",
+                    "rgb(151, 183, 129,0.1)",
+                    "rgb(151, 183, 129,0.1)",
+                    "rgb(255, 94, 67,0.8)",
+                    "rgb(204, 75, 53,0.1)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 204, 204,0.2)",
+                    "rgb(204, 75, 53,0.1)",
+                    "rgb(204, 75, 53,0.1)",
+                    "rgb(204, 75, 53,0.1)",
+                    "rgb(204, 75, 53,0.1)"
+                ],
+                "label": [
+                    "stream 1",
+                    "",
+                    "",
+                    "",
+                    "stream 1",
+                    "",
+                    "",
+                    "Hello world"
+                ]
+            }
+        }
+    ],
+    "layout": {
+        "title": {
+            "text": "Energy forecast for 2050, UK \u2014 Department of Energy & Climate Change<br>Imperfect copy of <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"
+        },
+        "width": 10000,
+        "height": 5000,
+        "font": {
+            "size": 10
+        },
+        "updatemenus": [
+            {
+                "y": 1,
+                "buttons": [
+                    {
+                        "label": "Light",
+                        "method": "relayout",
+                        "args": [
+                            "paper_bgcolor",
+                            "white"
+                        ]
+                    },
+                    {
+                        "label": "Dark",
+                        "method": "relayout",
+                        "args": [
+                            "paper_bgcolor",
+                            "black"
+                        ]
+                    }
+                ]
+            },
+            {
+                "y": 0.9,
+                "buttons": [
+                    {
+                        "label": "Thick",
+                        "method": "restyle",
+                        "args": [
+                            "node.thickness",
+                            15
+                        ]
+                    },
+                    {
+                        "label": "Thin",
+                        "method": "restyle",
+                        "args": [
+                            "node.thickness",
+                            8
+                        ]
+                    }
+                ]
+            },
+            {
+                "y": 0.8,
+                "buttons": [
+                    {
+                        "label": "Small gap",
+                        "method": "restyle",
+                        "args": [
+                            "node.pad",
+                            15
+                        ]
+                    },
+                    {
+                        "label": "Large gap",
+                        "method": "restyle",
+                        "args": [
+                            "node.pad",
+                            20
+                        ]
+                    }
+                ]
+            },
+            {
+                "y": 0.7,
+                "buttons": [
+                    {
+                        "label": "Snap",
+                        "method": "restyle",
+                        "args": [
+                            "arrangement",
+                            "snap"
+                        ]
+                    },
+                    {
+                        "label": "Perpendicular",
+                        "method": "restyle",
+                        "args": [
+                            "arrangement",
+                            "perpendicular"
+                        ]
+                    },
+                    {
+                        "label": "Freeform",
+                        "method": "restyle",
+                        "args": [
+                            "arrangement",
+                            "freeform"
+                        ]
+                    },
+                    {
+                        "label": "Fixed",
+                        "method": "restyle",
+                        "args": [
+                            "arrangement",
+                            "fixed"
+                        ]
+                    }
+                ]
+            },
+            {
+                "y": 0.6,
+                "buttons": [
+                    {
+                        "label": "Horizontal",
+                        "method": "restyle",
+                        "args": [
+                            "orientation",
+                            "h"
+                        ]
+                    },
+                    {
+                        "label": "Vertical",
+                        "method": "restyle",
+                        "args": [
+                            "orientation",
+                            "v"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
