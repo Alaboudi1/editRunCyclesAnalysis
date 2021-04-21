@@ -104,8 +104,9 @@ let cycle = (startTitle,endTitle,episodes=getAllDebuggingEpisodes())=>{
         let currentCycle = {
             activities: []
         };
+        subAnnotations = episode.subAnnotations.sort((a,b)=>util.stringToSecondsFormat(a.duration.start.time) - util.stringToSecondsFormat(b.duration.start.time))
         let endFalg = undefined;
-        for (sub of episode.subAnnotations) {
+        for (sub of subAnnotations) {
             localTitle = normalizeToEdit(sub.title);
             if (currentCycle.started == undefined) {
                 // no cycles started
@@ -136,7 +137,7 @@ let cycle = (startTitle,endTitle,episodes=getAllDebuggingEpisodes())=>{
             if (currentCycle.started) {
                 // the cycle is started 
                 if (localTitle.includes(endTitle)) {
-                    // first encounter of the end of the cycle
+                    // not first encounter of the end of the cycle
                     if (endFalg) {
                         // there is a pervoius end of the cycle
                         currentCycle.activities.push(endFalg)
@@ -154,12 +155,21 @@ let cycle = (startTitle,endTitle,episodes=getAllDebuggingEpisodes())=>{
                 }
                 if (localTitle.includes(startTitle) && endFalg) {
                     // the new cycle will start and the flag of the end of current cycle is set
-                    currentCycle.ended = endFalg
+                    currentCycle.ended = endFalg;
+                    //remove other work between cycles
+                    currentCycle.activities = currentCycle.activities.sort((a,b)=>util.stringToSecondsFormat(a.duration.start.time) - util.stringToSecondsFormat(b.duration.start.time));
+                    while (currentCycle.activities.length && util.stringToSecondsFormat(currentCycle.activities[currentCycle.activities.length - 1].duration.end.time) > util.stringToSecondsFormat(currentCycle.ended.duration.start.time)) {
+                        if (currentCycle.activities[currentCycle.activities.length - 1].title.includes(endTitle))
+                            break;
+                        other.push(currentCycle.activities.pop())
+
+                    }
                     cycles.push(currentCycle);
 
                     currentCycle = {
                         activities: []
                     }
+                    // start of new cycle 
                     currentCycle.started = {
                         // the start cycle
                         title: sub.title,
@@ -167,8 +177,8 @@ let cycle = (startTitle,endTitle,episodes=getAllDebuggingEpisodes())=>{
                         duration: sub.duration,
                         description: sub.description,
                         id: sub.id,
-
                     }
+
                     currentCycle.ended = undefined;
                     endFalg = undefined;
                     continue;
@@ -299,10 +309,6 @@ getPersentageofTesting = ()=>getOccurancesInEachPresentage().map(e=>e["Testing p
 
 getNumberOfCycles = (episodes)=>cycle("Edit", "Test", episodes).reduce((acc,curr)=>acc + curr.cycles.length, 0)
 sortCycles = (episodes)=>cycle("Edit", "Test", episodes).sort((a,b)=>a.cycles.length - b.cycles.length)
-NumberOFCycles_EpisodeTime = ()=>sortCycles().map(e=>({
-    cycles: e.cycles.length,
-    episodeTime: e.episodeTime
-}))
 
 avgCyclesDuration = (episodes)=>{
     return sortCycles(episodes).map(c=>{
@@ -340,7 +346,7 @@ function median(values) {
 let getQuestions = (title)=>{
     return getAllDebuggingEpisodes().flatMap(episode=>{
         return episode.subAnnotations.filter(sub=>sub.title.includes(title)).filter(sub=>{
-            return (sub.description.includes("?") || sub.description.includes("O5"))
+            return (a.description.includes("?") || a.description.includes("O5") || a.description.includes("IF5") || a.description.includes("OT1") || a.description.includes("U8"))
         }
         )
     }
@@ -370,15 +376,12 @@ let getCycles = ()=>{
             videoTitle: episode.title,
             other: episode.other,
             episodeTime: episode.episodeTime,
+            cyclesNumber: episode.cycles.length,
             cycles: episode.cycles.map(cycle=>{
                 let obj = {
                     activities: [cycle.started, ...cycle.activities, cycle.ended].sort((a,b)=>util.stringToSecondsFormat(a.duration) - util.stringToSecondsFormat(b.duration))
                 }
-                if (!obj.activities[obj.activities.length - 1].title.includes("Testing")) {
-                    while (!obj.activities[obj.activities.length - 1].title.includes("Testing")) {
-                        internalOther.push(obj.activities.pop())
-                    }
-                }
+
                 obj.cycleTime = obj.activities.reduce((a,b)=>a + b.activityTime, 0)
                 return obj;
             }
@@ -395,16 +398,13 @@ let getCycles = ()=>{
             videoTitle: episode.title,
             other: episode.other,
             episodeTime: episode.episodeTime,
+            cyclesNumber: episode.cycles.length,
             cycles: episode.cycles.map(cycle=>{
                 let obj = {
                     activities: [cycle.started, ...cycle.activities, cycle.ended].sort((a,b)=>util.stringToSecondsFormat(a.duration) - util.stringToSecondsFormat(b.duration)),
 
                 }
-                if (!obj.activities[obj.activities.length - 1].title.includes("Testing")) {
-                    while (!obj.activities[obj.activities.length - 1].title.includes("Testing")) {
-                        internalOther.push(obj.activities.pop())
-                    }
-                }
+
                 obj.cycleTime = obj.activities.reduce((a,b)=>a + b.activityTime, 0)
                 return obj;
             }
@@ -419,12 +419,12 @@ let getCycles = ()=>{
         programmingCycles
     };
 }
-
+// first RQ
 let summraySycles = ()=>{
     let {debuggingCycles, programmingCycles} = getCycles();
     debuggingCycles = debuggingCycles.map(e=>{
 
-        return {
+        let obj = {
             ...e,
             videoTitle: normalizeVideoId(e.videoTitle),
             other: e.other.length,
@@ -437,12 +437,24 @@ let summraySycles = ()=>{
             }
             , 0)
         }
+        obj.cyclesPresentage = obj.cyclesTime / obj.episodeTime * 100;
+        return obj;
+    }
+    ).map(e=>{
+        return {
+            ...e,
+            seqCycles: e.cycles.map((c,i)=>({
+                seq: `${i}->${i + 1}`,
+                time: util.stringToSecondsFormat(e.cycles[i + 1]?.activities[0].duration.start.time) - util.stringToSecondsFormat(c.activities[c.activities.length - 1].duration.end.time),
+                cycles: [c, e.cycles[i + 1] ?? undefined]
+            }))
+        }
     }
     )
 
     programmingCycles = programmingCycles.map(e=>{
 
-        return {
+        obj = {
             ...e,
             videoTitle: normalizeVideoId(e.videoTitle),
             other: e.other,
@@ -453,6 +465,17 @@ let summraySycles = ()=>{
                 return a + b.activities.reduce((a,b)=>a + b.activityTime, 0)
             }
             , 0)
+        }
+        obj.cyclesPresentage = obj.cyclesTime / obj.episodeTime * 100;
+        return obj;
+    }
+    ).map(e=>{
+        return {
+            ...e,
+            seqCycles: e.cycles.map((c,i)=>({
+                seq: `${i}->${i + 1}`,
+                time: util.stringToSecondsFormat(e.cycles[i + 1]?.activities[0].duration.start.time) - util.stringToSecondsFormat(c.activities[c.activities.length - 1].duration.end.time)
+            }))
         }
     }
     )
@@ -493,10 +516,7 @@ let getCyclesDetails = ()=>{
     }
     )
 
-    return {
-        debuggingCycles,
-        programmingCycles
-    };
+    return [...debuggingCycles, ...programmingCycles];
 }
 
 let getCyclesActivites = ()=>{
@@ -519,7 +539,7 @@ let getCyclesActivites = ()=>{
             return {
                 activity: normalizeActivity(ac.title),
                 time: ac.activityTime,
-                work: "PRogramming"
+                work: "Programming"
             }
         }
         )
@@ -626,14 +646,8 @@ let extractEditCharact = ()=>{
 
     let editDe = debuggingCycles.map(episodeCycls=>{
 
-        let editActivites = episodeCycls.cycles.map(c=>({
-            work: "debugging",
-
-            cycleTime: c.cycleTime,
-            activities: c.activities.filter(a=>a.title.includes("file")).length,
-            editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
-            browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
-            otherWithEdit: c.activities.filter((a,i)=>{
+        let editActivites = episodeCycls.cycles.map(c=>{
+            let otherWithEdit = c.activities.filter((a,i)=>{
                 if (a.title.includes("file") || a.title.includes("Testing"))
                     return false;
                 let pre = c.activities[i - 1]?.title;
@@ -642,31 +656,62 @@ let extractEditCharact = ()=>{
                     return true;
             }
             )
-
-        }))
+            return {
+                work: "debugging",
+                cycleTime: c.cycleTime,
+                activities: c.activities.filter(a=>a.title.includes("file")).length,
+                stepTime: c.activities.filter(a=>a.title.includes("file")).reduce((a,b)=>a + b.activityTime, 0),
+                editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
+                browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
+                otherResourcesTime: otherWithEdit.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+                otherIssueTime: otherWithEdit.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherNotesTime: otherWithEdit.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherInteractionTime: otherWithEdit.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherResourcesN: otherWithEdit.filter(a=>a.title.includes("information")).length,
+                otherIssueN: otherWithEdit.filter(a=>a.description.includes("OT2:")).length,
+                otherNotesN: otherWithEdit.filter(a=>a.description.includes("OT4:")).length,
+                otherInteractionN: otherWithEdit.filter(a=>a.description.includes("OT5:")).length,
+                numberOfOther: otherWithEdit.length,
+                numberOfOther: otherWithEdit.length,
+            }
+        }
+        )
         return editActivites
 
     }
     )
     let editPro = programmingCycles.map(episodeCycls=>{
 
-        let editActivites = episodeCycls.cycles.map(c=>({
-            work: "programming",
-            cycleTime: c.cycleTime,
-            activities: c.activities.filter(a=>a.title.includes("file")).length,
-            editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
-            browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
-            otherWithEdit: c.activities.filter((a,i)=>{
+        let editActivites = episodeCycls.cycles.map(c=>{
+            let otherWithEdit = c.activities.filter((a,i)=>{
                 if (a.title.includes("file") || a.title.includes("Testing"))
-                    return false
-                pre = c.activities[i - 1]?.title;
-                next = c.activities[i + 1]?.title;
+                    return false;
+                let pre = c.activities[i - 1]?.title;
+                let next = c.activities[i + 1]?.title;
                 if (pre.includes("file") || next.includes("file"))
                     return true;
             }
             )
+            return {
+                work: "programming",
+                cycleTime: c.cycleTime,
+                activities: c.activities.filter(a=>a.title.includes("file")).length,
+                stepTime: c.activities.filter(a=>a.title.includes("file")).reduce((a,b)=>a + b.activityTime, 0),
+                editFiles: c.activities.filter(a=>a.title.includes("file") && !a.title.includes("None")),
+                browsFile: c.activities.filter(a=>a.title.includes("file") && a.title.includes("None")),
+                otherResourcesTime: otherWithEdit.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+                otherIssueTime: otherWithEdit.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherNotesTime: otherWithEdit.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherInteractionTime: otherWithEdit.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherResourcesN: otherWithEdit.filter(a=>a.title.includes("information")).length,
+                otherIssueN: otherWithEdit.filter(a=>a.description.includes("OT2:")).length,
+                otherNotesN: otherWithEdit.filter(a=>a.description.includes("OT4:")).length,
+                otherInteractionN: otherWithEdit.filter(a=>a.description.includes("OT5:")).length,
+                numberOfOther: otherWithEdit.length,
 
-        }))
+            }
+        }
+        )
         return editActivites
     }
     )
@@ -708,14 +753,8 @@ let extractRunCharact = ()=>{
     let {debuggingCycles, programmingCycles} = extractCycles();
 
     let runDe = debuggingCycles.map(episodeCycls=>{
-
-        let runActivities = episodeCycls.cycles.map(c=>({
-            work: "debugging",
-            cycleTime: c.cycleTime,
-            activities: c.activities.filter(a=>a.title.includes("Testing")).length,
-            output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
-            runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
-            otherWithRun: c.activities.filter((a,i)=>{
+        let runActivities = episodeCycls.cycles.map(c=>{
+            let otherWithRun = c.activities.filter((a,i)=>{
                 if (a.title.includes("file") || a.title.includes("Testing"))
                     return false;
                 let pre = c.activities[i - 1]?.title;
@@ -724,8 +763,26 @@ let extractRunCharact = ()=>{
                     return true;
             }
             )
+            return {
+                work: "debugging",
+                cycleTime: c.cycleTime,
+                activities: c.activities.filter(a=>a.title.includes("Testing")).length,
+                stepTime: c.activities.filter(a=>a.title.includes("Testing")).reduce((a,b)=>a + b.activityTime, 0),
+                output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
+                runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
+                otherResourcesTime: otherWithRun.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+                otherIssueTime: otherWithRun.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherNotesTime: otherWithRun.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherInteractionTime: otherWithRun.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherResourcesN: otherWithRun.filter(a=>a.title.includes("information")).length,
+                otherIssueN: otherWithRun.filter(a=>a.description.includes("OT2:")).length,
+                otherNotesN: otherWithRun.filter(a=>a.description.includes("OT4:")).length,
+                otherInteractionN: otherWithRun.filter(a=>a.description.includes("OT5:")).length,
+                numberOfOther: otherWithRun.length,
 
-        }))
+            }
+        }
+        )
 
         return runActivities
 
@@ -734,13 +791,8 @@ let extractRunCharact = ()=>{
 
     let runPro = programmingCycles.map(episodeCycls=>{
 
-        let runActivities = episodeCycls.cycles.map(c=>({
-            work: "programming",
-            cycleTime: c.cycleTime,
-            activities: c.activities.filter(a=>a.title.includes("Testing")).length,
-            output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
-            runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
-            otherWithRun: c.activities.filter((a,i)=>{
+        let runActivities = episodeCycls.cycles.map(c=>{
+            let otherWithRun = c.activities.filter((a,i)=>{
                 if (a.title.includes("file") || a.title.includes("Testing"))
                     return false;
                 let pre = c.activities[i - 1]?.title;
@@ -749,8 +801,25 @@ let extractRunCharact = ()=>{
                     return true;
             }
             )
-
-        }))
+            return {
+                work: "programming",
+                cycleTime: c.cycleTime,
+                activities: c.activities.filter(a=>a.title.includes("Testing")).length,
+                stepTime: c.activities.filter(a=>a.title.includes("Testing")).reduce((a,b)=>a + b.activityTime, 0),
+                output: c.activities.filter(a=>a.title.includes("Testing") && (!a.description.includes("O6:") && !a.description.includes("O7:"))).length > 0 ? "final output" : "program state",
+                runMethod: c.activities.filter(a=>a.title.includes("Testing") && a.description.includes("O1:")).length > 0 ? "autamted test" : "manual",
+                otherResourcesTime: otherWithRun.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+                otherIssueTime: otherWithRun.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherNotesTime: otherWithRun.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherInteractionTime: otherWithRun.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+                otherResourcesN: otherWithRun.filter(a=>a.title.includes("information")).length,
+                otherIssueN: otherWithRun.filter(a=>a.description.includes("OT2:")).length,
+                otherNotesN: otherWithRun.filter(a=>a.description.includes("OT4:")).length,
+                otherInteractionN: otherWithRun.filter(a=>a.description.includes("OT5:")).length,
+                numberOfOther: otherWithRun.length,
+            }
+        }
+        )
 
         return runActivities
 
@@ -799,21 +868,163 @@ let extractOtherCharact = ()=>{
         }
     }
     )]
-  return allOther;
+    return allOther;
 }
 
 let extractCycles = ()=>{
     let cycles = summraySycles()
-    let debuggingCycles = cycles.debuggingCycles.map(({cycles, cyclesTime})=>({
+    let debuggingCycles = cycles.debuggingCycles.map(({cycles, cyclesTime, videoTitle, other},i)=>({
         cyclesTime,
-        cycles
+        cycles,
+        videoTitle,
+        work: "debugging",
+        other,
+        cycleId: i + "debugging"
     }));
-    let programmingCycles = cycles.programmingCycles.map(({cycles, cyclesTime})=>({
+    let programmingCycles = cycles.programmingCycles.map(({cycles, cyclesTime, videoTitle, other},i)=>({
         cyclesTime,
-        cycles
+        cycles,
+        videoTitle,
+        work: "programming",
+        other,
+        cycleId: i + "programming",
     }));
     return {
         debuggingCycles,
         programmingCycles
     };
+}
+
+let nextActivity = (endCurrent,activities)=>{
+    timeInSecond = util.stringToSecondsFormat(endCurrent);
+    return activities.find(a=>util.stringToSecondsFormat(a.duration.start.time) === timeInSecond)?.title;
+}
+
+let getQuestionsInCycles = ()=>{
+    let {debuggingCycles, programmingCycles} = extractCycles();
+    return [...debuggingCycles, ...programmingCycles].flatMap(c=>{
+        return c.cycles.map(cycle=>{
+            return cycle.activities.map((a,i)=>({
+                questions: (a.description.includes("?") || a.description.includes("O5") || a.description.includes("IF5") || a.description.includes("OT1") || a.description.includes("U8")) ? a.description : undefined,
+                videoTitle: c.videoTitle,
+                activity: normalizeActivity(a.title),
+                work: c.work,
+                id: a.id,
+                cycleId: c.cycleId,
+                start: a.duration.start.time,
+                next: cycle.activities[i + 1]?.title ?? nextActivity(a.duration.end.time, [...c.other, ...c.cycles.flatMap(c=>c.activities)]),
+            })).filter(e=>e.questions)
+        }
+        )
+    }
+    ).filter(e=>e.length)
+}
+
+let getSequentCycles = ()=>{
+    let cycles = summraySycles()
+    let debuggingCycles = cycles.debuggingCycles.map(({seqCycles})=>({
+        //492
+        seq: seqCycles.filter(s=>s.time === 0).length,
+        notSeq: seqCycles.filter(s=>s.time > 0).length
+    }))
+    let programmingCycles = cycles.programmingCycles.map(({seqCycles})=>({
+        //134
+        seq: seqCycles.filter(s=>s.time === 0).length,
+        notSeq: seqCycles.filter(s=>s.time > 0).length
+    }))
+    return {
+        debuggingCycles,
+        programmingCycles
+    };
+}
+
+let getOtherBetweenCycles = ()=>{
+    let cycles = summraySycles();
+
+    betweenDebugging = cycles.debuggingCycles.map(({other, cycles})=>{
+        if (cycles.length === 0)
+            return {
+                edges: 0,
+                other: [],
+                edgesWithOther: 0
+            }
+        betweenOther = {}
+        betweenOther.other = other.filter(o=>{
+            lastCycle = cycles[cycles.length - 1];
+            lastActivity = lastCycle.activities[lastCycle.activities.length - 1]
+            firstCycleTime = util.stringToSecondsFormat(cycles[0].activities[0].duration.start.time)
+            lastCycleTime = util.stringToSecondsFormat(lastActivity.duration.end.time)
+            otherStart = util.stringToSecondsFormat(o.duration.start.time)
+            let isbetween = (otherStart > firstCycleTime && otherStart < lastCycleTime);
+            return isbetween;
+        }
+        )
+        betweenOther.work = "debugging";
+        betweenOther.typeOfOther = "between";
+        betweenOther.edges = cycles.length - 1;
+        betweenOther.edgesWithOther = betweenOther.other.map(e=>{
+            return nextActivity(e.duration.end.time, betweenOther.other) != undefined ? 0 : 1;
+        }
+        ).reduce((a,b)=>a + b, 0)
+        return betweenOther;
+    }
+    )
+    betweenOther = {}
+    betweenProgramming = cycles.programmingCycles.map(({other, cycles})=>{
+        if (cycles.length === 0)
+            return {
+                edges: 0,
+                other: [],
+                edgesWithOther: 0
+            }
+        betweenOther = {}
+        betweenOther.other = other.filter(o=>{
+            lastCycle = cycles[cycles.length - 1];
+            lastActivity = lastCycle.activities[lastCycle.activities.length - 1]
+            firstCycleTime = util.stringToSecondsFormat(cycles[0].activities[0].duration.start.time)
+            lastCycleTime = util.stringToSecondsFormat(lastActivity.duration.end.time)
+            otherStart = util.stringToSecondsFormat(o.duration.start.time)
+            let isbetween = (otherStart > firstCycleTime && otherStart < lastCycleTime);
+            return isbetween;
+        }
+        )
+        betweenOther.work = "programming";
+        betweenOther.typeOfOther = "between";
+        betweenOther.edges = cycles.length - 1;
+        betweenOther.edgesWithOther = betweenOther.other.map(e=>{
+            return nextActivity(e.duration.end.time, betweenOther.other) != undefined ? 0 : 1;
+        }
+        ).reduce((a,b)=>a + b, 0)
+
+        return betweenOther;
+    }
+    )
+    return {
+        "debugging": {
+            details: betweenDebugging,
+            ...typeOfOther(betweenDebugging.filter(e=>e.other.length > 0).flatMap(e=>e.other)),
+            totalEdges: betweenDebugging.reduce((a,b)=>a + b.edges, 0),
+            totalEdgesWithOther: betweenDebugging.reduce((a,b)=>a + b.edgesWithOther, 0)
+        },
+        "programming": {
+            details: betweenProgramming,
+            ...typeOfOther(betweenProgramming.filter(e=>e.other.length > 0).flatMap(e=>e.other)),
+            otalEdges: betweenProgramming.reduce((a,b)=>a + b.edges, 0),
+            totalEdgesWithOther: betweenProgramming.reduce((a,b)=>a + b.edgesWithOther, 0)
+        }
+    }
+}
+
+let typeOfOther = (a)=>{
+    return {
+        otherTotalTime: a.reduce((a,b)=>a + b.activityTime, 0),
+        otherResources: a.filter(a=>a.title.includes("information")).length,
+        otherResourcesTime: a.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+        otherIssue: a.filter(a=>a.description.includes("OT2:")).length,
+        otherIssueTime: a.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+        otherNotes: a.filter(a=>a.description.includes("OT4:")).length,
+        otherNotesTime: a.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+        otherInteraction: a.filter(a=>a.description.includes("OT5:")).length,
+        otherInteractionTime: a.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+    }
 }
