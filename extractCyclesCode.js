@@ -938,93 +938,112 @@ let getSequentCycles = ()=>{
     };
 }
 
-let getOtherBetweenCycles = ()=>{
-    let cycles = summraySycles();
+//RQ3
 
-    betweenDebugging = cycles.debuggingCycles.map(({other, cycles})=>{
-        if (cycles.length === 0)
-            return {
-                edges: 0,
-                other: [],
-                edgesWithOther: 0
-            }
-        betweenOther = {}
-        betweenOther.other = other.filter(o=>{
-            lastCycle = cycles[cycles.length - 1];
-            lastActivity = lastCycle.activities[lastCycle.activities.length - 1]
-            firstCycleTime = util.stringToSecondsFormat(cycles[0].activities[0].duration.start.time)
-            lastCycleTime = util.stringToSecondsFormat(lastActivity.duration.end.time)
-            otherStart = util.stringToSecondsFormat(o.duration.start.time)
-            let isbetween = (otherStart > firstCycleTime && otherStart < lastCycleTime);
-            return isbetween;
-        }
-        )
-        betweenOther.work = "debugging";
-        betweenOther.typeOfOther = "between";
-        betweenOther.edges = cycles.length - 1;
-        betweenOther.edgesWithOther = betweenOther.other.map(e=>{
-            return nextActivity(e.duration.end.time, betweenOther.other) != undefined ? 0 : 1;
-        }
-        ).reduce((a,b)=>a + b, 0)
-        return betweenOther;
-    }
-    )
-    betweenOther = {}
-    betweenProgramming = cycles.programmingCycles.map(({other, cycles})=>{
-        if (cycles.length === 0)
-            return {
-                edges: 0,
-                other: [],
-                edgesWithOther: 0
-            }
-        betweenOther = {}
-        betweenOther.other = other.filter(o=>{
-            lastCycle = cycles[cycles.length - 1];
-            lastActivity = lastCycle.activities[lastCycle.activities.length - 1]
-            firstCycleTime = util.stringToSecondsFormat(cycles[0].activities[0].duration.start.time)
-            lastCycleTime = util.stringToSecondsFormat(lastActivity.duration.end.time)
-            otherStart = util.stringToSecondsFormat(o.duration.start.time)
-            let isbetween = (otherStart > firstCycleTime && otherStart < lastCycleTime);
-            return isbetween;
-        }
-        )
-        betweenOther.work = "programming";
-        betweenOther.typeOfOther = "between";
-        betweenOther.edges = cycles.length - 1;
-        betweenOther.edgesWithOther = betweenOther.other.map(e=>{
-            return nextActivity(e.duration.end.time, betweenOther.other) != undefined ? 0 : 1;
-        }
-        ).reduce((a,b)=>a + b, 0)
-
-        return betweenOther;
-    }
-    )
+let getotherBetweenEdit = ()=>{
+    e = extractEditCharact()
     return {
-        "debugging": {
-            details: betweenDebugging,
-            ...typeOfOther(betweenDebugging.filter(e=>e.other.length > 0).flatMap(e=>e.other)),
-            totalEdges: betweenDebugging.reduce((a,b)=>a + b.edges, 0),
-            totalEdgesWithOther: betweenDebugging.reduce((a,b)=>a + b.edgesWithOther, 0)
+        programming: {
+            other: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").length / 207 * 100,
+            Consulting: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherResourcesN > 0).length / 207 * 100,
+            Note: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherNotesN > 0).length / 207 * 100,
+            Issue: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherIssueN > 0).length / 207 * 100,
+            IDE: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherInteractionN > 0).length / 207 * 100,
         },
-        "programming": {
-            details: betweenProgramming,
-            ...typeOfOther(betweenProgramming.filter(e=>e.other.length > 0).flatMap(e=>e.other)),
-            otalEdges: betweenProgramming.reduce((a,b)=>a + b.edges, 0),
-            totalEdgesWithOther: betweenProgramming.reduce((a,b)=>a + b.edgesWithOther, 0)
+        debugging: {
+            other: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").length / 581 * 100,
+            Consulting: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherResourcesN > 0).length / 581 * 100,
+            Note: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherNotesN > 0).length / 581 * 100,
+            Issue: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherIssueN > 0).length / 581 * 100,
+            IDE: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherInteractionN > 0).length / 581 * 100,
         }
     }
 }
 
-let typeOfOther = (a)=>{
+let getotherBetweenRun = ()=>{
+    e = extractRunCharact()
     return {
-        otherTotalTime: a.reduce((a,b)=>a + b.activityTime, 0),
-        otherResources: a.filter(a=>a.title.includes("information")).length,
-        otherResourcesTime: a.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
-        otherIssue: a.filter(a=>a.description.includes("OT2:")).length,
-        otherIssueTime: a.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
-        otherNotes: a.filter(a=>a.description.includes("OT4:")).length,
-        otherNotesTime: a.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
-        otherInteraction: a.filter(a=>a.description.includes("OT5:")).length,
-        otherInteractionTime: a.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+        programming: {
+            other: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").length / 207 * 100,
+            Consulting: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherResourcesN > 0).length / 207 * 100,
+            Note: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherNotesN > 0).length / 207 * 100,
+            Issue: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherIssueN > 0).length / 207 * 100,
+            IDE: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "programming").filter(e=>e.otherInteractionN > 0).length / 207 * 100,
+        },
+        debugging: {
+            other: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").length / 581 * 100,
+            Consulting: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherResourcesN > 0).length / 581 * 100,
+            Note: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherNotesN > 0).length / 581 * 100,
+            Issue: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherIssueN > 0).length / 581 * 100,
+            IDE: e.filter(e=>e.numberOfOther > 0).filter(e=>e.work == "debugging").filter(e=>e.otherInteractionN > 0).length / 581 * 100,
+        }
     }
+}
+let getOtherBetweenCycles = ()=>{
+    let cycles = summraySycles();
+
+    betweenDebugging = cycles.debuggingCycles.map(({other, cycles, ...e})=>{
+        if (cycles.length === 0)
+            return []
+        return cycles.map((cycle,i)=>{
+            if (cycles[i + 1] === undefined)
+                return undefined
+            start = util.stringToSecondsFormat(cycle.activities[cycle.activities.length - 1].duration.end.time);
+            end = util.stringToSecondsFormat(cycles[i + 1].activities[0].duration.start.time);
+            return {
+                start: cycle,
+                end: cycles[i + 1],
+                other: other.filter(o=>{
+                    startOther = util.stringToSecondsFormat(o.duration.start.time);
+                    return startOther >= start && startOther <= end;
+                }
+                )
+            }
+        }
+        ).filter(e=>e)
+    }
+    )
+    betweenProgramming = cycles.programmingCycles.map(({other, cycles, ...e})=>{
+        if (cycles.length === 0)
+            return []
+        return cycles.map((cycle,i)=>{
+            if (cycles[i + 1] === undefined)
+                return undefined
+            start = util.stringToSecondsFormat(cycle.activities[cycle.activities.length - 1].duration.end.time);
+            end = util.stringToSecondsFormat(cycles[i + 1].activities[0].duration.start.time);
+            return {
+                start: cycle,
+                end: cycles[i + 1],
+                other: other.filter(o=>{
+                    startOther = util.stringToSecondsFormat(o.duration.start.time);
+                    return startOther >= start && startOther <= end;
+                }
+                )
+            }
+        }
+        ).filter(e=>e)
+    }
+    )
+    return {
+        "debugging": betweenDebugging,
+        "programming": betweenProgramming,
+
+    }
+}
+
+let typeOfOther = (a)=>{
+    return a.map(a=>{
+        return {
+            otherTotalTime: a.reduce((a,b)=>a + b.activityTime, 0),
+            otherResources: a.filter(a=>a.title.includes("information")).length,
+            otherResourcesTime: a.filter(a=>a.title.includes("information")).reduce((a,b)=>a + b.activityTime, 0),
+            otherIssue: a.filter(a=>a.description.includes("OT2:")).length,
+            otherIssueTime: a.filter(a=>a.description.includes("OT2:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherNotes: a.filter(a=>a.description.includes("OT4:")).length,
+            otherNotesTime: a.filter(a=>a.description.includes("OT4:")).reduce((a,b)=>a + b.activityTime, 0),
+            otherInteraction: a.filter(a=>a.description.includes("OT5:")).length,
+            otherInteractionTime: a.filter(a=>a.description.includes("OT5:")).reduce((a,b)=>a + b.activityTime, 0),
+        }
+    }
+    )
 }
